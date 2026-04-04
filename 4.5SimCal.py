@@ -30,5 +30,5 @@ while True:
         elif ch == '4':
             print(num1,"+",num2,"=",funcDiv(num1,num2)) 
             break
-        else:
+    else:
             print("invalid choice!")
